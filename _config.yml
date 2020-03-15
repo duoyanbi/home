@@ -1,7 +1,7 @@
-title: Texture Theme
+title: duoyanbi
 author: duoyanbi
 email: 
-description: 宁鸣而死，不默而生。
+description: 
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl:
 
@@ -12,8 +12,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Duoyanbi
+  tagline: 宁鸣而死，不默而生。
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
